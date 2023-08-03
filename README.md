@@ -1,8 +1,7 @@
 # Bankist-App
 Simulation of a bank app
 
-To enter the app use the nextfollowing data:
-
+Login info:
 
 User 1:  user - ad, PIN - 1111
 
