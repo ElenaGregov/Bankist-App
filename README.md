@@ -1,7 +1,9 @@
 # Bankist-App
 Simulation of a bank app
 
-Login info:
+Arrays, Numbers, Dates, Timers. 
+
+Fake "log in" info:
 
 User 1:  user - ad, PIN - 1111
 
